@@ -1,7 +1,7 @@
 # Contribution Instructions
 
 ## Fork the repository
-1. Open in a new tab https://github.com/janmaghuyop/base-repo
+1. Open in a new tab https://github.com/janmaghuyop/ubuntu-tweak
 2. In the top-right corner of the page, click Fork.
 
 ## Clone the forked repository
@@ -11,14 +11,14 @@
 
 ```
 cd ~/Downloads
-git clone git@github.com:username/base-repo.git
-cd base-repo
+git clone git@github.com:username/ubuntu-tweak.git
+cd ubuntu-tweak
 ```
 
 ## Set Upstream URL
 Open Terminal and paste the command below and hit enter.
 ```
-git add remote upstream git@github.com:janmaghuyop/base-repo.git
+git add remote upstream git@github.com:janmaghuyop/ubuntu-tweak.git
 ```
 
 ## Create a feature branch.
